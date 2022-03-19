@@ -2,29 +2,6 @@
 title: Mais 1 Code
 layout: PageLayout
 sections:
-  - type: TextSection
-    colors: colors-e
-    variant: variant-a
-    text: |+
-      ## [Siga-nos no Instagram](https://www.instagram.com/mais1code/)
-
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-36
-          - pr-4
-          - pl-4
-        justifyContent: center
-      text:
-        textAlign: center
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
