@@ -16,12 +16,6 @@
             },
             {
                 "type": "Link",
-                "label": "Faça uma doação",
-                "url": "https://app.benfeitoria.com/projeto/mais1code",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Seja Mentor",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSeCgQfx3eFcgCIvw_MrjFMexBaW7IqQzkey3B4m5H0sbdk26w/viewform",
                 "altText": ""
