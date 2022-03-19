@@ -11,7 +11,7 @@ sections:
 
     actions:
       - type: Link
-        label: Comunidade no Discord
+        label: Community on Discord
         url: 'https://discord.gg/RdevxUp6cC'
         showIcon: true
         icon: arrowRight
