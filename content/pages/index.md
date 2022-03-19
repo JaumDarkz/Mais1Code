@@ -7,7 +7,7 @@ sections:
     backgroundSize: full
     title: CONECTE SUA CARTEIRA
     text: |+
-      ### Complete as missões e ganhe moedas digitais.
+      Complete missions and win Crypto Plus.
 
     actions:
       - type: Link
