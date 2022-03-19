@@ -6,9 +6,8 @@ sections:
     colors: colors-d
     backgroundSize: full
     title: CONECTE SUA CARTEIRA
-    text: >+
-      ### Onde você terá acesso a um professor voluntário, com uma a duas aulas
-      por semana e suporte diário de nossa equipe.
+    text: |+
+      ### Complete as missões e ganhe moedas digitais.
 
     actions:
       - type: Link
