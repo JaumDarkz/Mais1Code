@@ -40,15 +40,7 @@
         "title": "Ethereum Rio Hackathon",
         "copyrightText": "Feito com ❤️ por [Coflow ](https://coflow.com.br/)\n",
         "primaryLinks": [],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Instagram",
-                "label": "Instagram",
-                "url": "/",
-                "icon": "instagram"
-            }
-        ],
+        "socialLinks": [],
         "legalLinks": [
             {
                 "type": "Link",
