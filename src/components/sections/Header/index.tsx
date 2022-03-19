@@ -2,6 +2,7 @@ import * as React from 'react';
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
 import classNames from 'classnames';
+import { ethers } from 'ethers';
 
 import { Link, Action } from '../../atoms';
 import ImageBlock from '../../molecules/ImageBlock';
@@ -188,8 +189,16 @@ function SiteLogoLink({ title, isTitleVisible, logo }) {
 }
 
 function ListOfLinks({ links, inMobileMenu }) {
+    const connectWallet = async (e) => {
+        const provider = new ethers.providers.Web3Provider(window.ethereum);
+        await provider.send('eth_requestAccounts', []);
+        const signer = provider.getSigner(); //Wallet data
+
+        console.log('Connected wallet: ' + signer);
+    };
+
     return links.map((link, index) => (
-        <li key={index}>
+        <li key={index} onClick={(e) => connectWallet(e)}>
             <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
         </li>
     ));

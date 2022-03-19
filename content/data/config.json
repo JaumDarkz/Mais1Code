@@ -30,9 +30,14 @@
         "secondaryLinks": [
             {
                 "type": "Button",
+<<<<<<< Updated upstream
                 "label": "QUERO MENTORIA",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdLq7-5G8MDD_eMunWjwbPeo2o-JhMI4U2IP6aRN6WwW7kNUg/viewform",
                 "altText": "QUERO MENTORIA",
+=======
+                "label": "Connect Wallet",
+                "altText": "Connect Wallet",
+>>>>>>> Stashed changes
                 "style": "secondary",
                 "showIcon": true,
                 "icon": "arrowRight",
