@@ -47,6 +47,14 @@
                 "label": "Instagram",
                 "url": "/",
                 "icon": "instagram"
+            },
+            {
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "style": "link",
+                "elementId": ""
             }
         ],
         "legalLinks": [
