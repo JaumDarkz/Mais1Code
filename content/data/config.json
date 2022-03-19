@@ -12,7 +12,7 @@
             {
                 "type": "Button",
                 "label": "Connect Wallet",
-                "url": "https://docs.google.com/forms/d/e/1FAIpQLSdLq7-5G8MDD_eMunWjwbPeo2o-JhMI4U2IP6aRN6WwW7kNUg/viewform",
+                "url": "/",
                 "altText": "Connect Wallet",
                 "style": "secondary",
                 "showIcon": true,
