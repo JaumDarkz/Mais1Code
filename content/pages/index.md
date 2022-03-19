@@ -2,50 +2,6 @@
 title: Mais 1 Code
 layout: PageLayout
 sections:
-  - elementId: ''
-    colors: colors-a
-    variant: variant-a
-    title: Como funciona
-    actions:
-      - type: Link
-        label: Veja tudo!
-        url: /blog
-        showIcon: true
-        icon: arrowRight
-    posts:
-      - content/pages/blog/post-five.md
-      - content/pages/blog/post-four.md
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    readMoreLinkLabel: Saiba Mais
-    showAuthor: false
   - type: TextSection
     colors: colors-e
     variant: variant-a
