@@ -5,7 +5,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
-    title: CONECTE SUA CARTEIRA
+    title: CONNECT YOUR WALLET
     text: |+
       Complete missions and win Crypto Plus.
 
