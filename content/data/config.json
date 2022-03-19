@@ -38,10 +38,6 @@
         "variant": "variant-b",
         "colors": "colors-c",
         "title": "Ethereum Rio Hackathon",
-        "contacts": {
-            "title": "Contact details",
-            "addressAltText": "Our address"
-        },
         "copyrightText": "Feito com ❤️ por [Coflow ](https://coflow.com.br/)\n",
         "primaryLinks": [
             {
