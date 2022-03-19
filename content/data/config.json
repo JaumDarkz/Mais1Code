@@ -37,7 +37,7 @@
     "footer": {
         "variant": "variant-b",
         "colors": "colors-c",
-        "title": "Hackathon ETHEREUM RIO",
+        "title": "ethereum-rio-hackathon",
         "contacts": {
             "title": "Contact details",
             "addressAltText": "Our address"
