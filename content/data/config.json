@@ -12,7 +12,7 @@
             {
                 "type": "Button",
                 "label": "Connect Wallet",
-                "url": "/",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSdLq7-5G8MDD_eMunWjwbPeo2o-JhMI4U2IP6aRN6WwW7kNUg/viewform",
                 "altText": "Connect Wallet",
                 "style": "secondary",
                 "showIcon": true,
@@ -39,14 +39,7 @@
         "colors": "colors-c",
         "title": "Ethereum Rio Hackathon",
         "copyrightText": "Feito com ❤️ por [Coflow ](https://coflow.com.br/)\n",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "BLOCKCHAIN SOLUTION",
-                "url": "mailto:contato@mais1code.com.br",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",
