@@ -5,7 +5,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
-    title: Na mais um +1code trabalhamos o ensino Um a Um.
+    title: CONECTE SUA CARTEIRA
     text: >+
       ### Onde você terá acesso a um professor voluntário, com uma a duas aulas
       por semana e suporte diário de nossa equipe.
