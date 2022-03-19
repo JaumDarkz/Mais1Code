@@ -2,27 +2,6 @@
 title: Mais 1 Code
 layout: PageLayout
 sections:
-  - type: QuoteSection
-    colors: colors-c
-    quote: |+
-      ## **Reprogramando a Quebrada**
-
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-36
-          - pr-4
-          - pl-4
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        textAlign: center
-      title:
-        textAlign: center
   - elementId: ''
     colors: colors-a
     variant: variant-a
